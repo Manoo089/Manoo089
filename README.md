@@ -1,6 +1,5 @@
-# Hi there, I am Manuel! 👋
----
+## Hi there, I am Manuel! 👋
 
-## Here some facts about me
+### Here some facts about me
 
-*will filled soon ;-)
+*will filled soon ;-)*
